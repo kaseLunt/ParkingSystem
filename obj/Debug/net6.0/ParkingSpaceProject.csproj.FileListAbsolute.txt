@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ParkingSpaceProject\bin\Debug\net6.0\ParkingSpaceProject.exe
+C:\Users\Administrator\source\repos\ParkingSpaceProject\bin\Debug\net6.0\ParkingSpaceProject.deps.json
+C:\Users\Administrator\source\repos\ParkingSpaceProject\bin\Debug\net6.0\ParkingSpaceProject.runtimeconfig.json
+C:\Users\Administrator\source\repos\ParkingSpaceProject\bin\Debug\net6.0\ParkingSpaceProject.dll
+C:\Users\Administrator\source\repos\ParkingSpaceProject\bin\Debug\net6.0\ParkingSpaceProject.pdb
+C:\Users\Administrator\source\repos\ParkingSpaceProject\obj\Debug\net6.0\ParkingSpaceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ParkingSpaceProject\obj\Debug\net6.0\ParkingSpaceProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ParkingSpaceProject\obj\Debug\net6.0\ParkingSpaceProject.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ParkingSpaceProject\obj\Debug\net6.0\ParkingSpaceProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ParkingSpaceProject\obj\Debug\net6.0\ParkingSpaceProject.dll
+C:\Users\Administrator\source\repos\ParkingSpaceProject\obj\Debug\net6.0\refint\ParkingSpaceProject.dll
+C:\Users\Administrator\source\repos\ParkingSpaceProject\obj\Debug\net6.0\ParkingSpaceProject.pdb
+C:\Users\Administrator\source\repos\ParkingSpaceProject\obj\Debug\net6.0\ParkingSpaceProject.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ParkingSpaceProject\obj\Debug\net6.0\ref\ParkingSpaceProject.dll
